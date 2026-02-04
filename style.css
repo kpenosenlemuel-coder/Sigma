@@ -69,8 +69,7 @@ a {
 
 #up {
     font-size: 1.5rem;
-    position: relative;
-    left: 13pc;
+    margin-left: 12rem;
 }
 
 .registration {
