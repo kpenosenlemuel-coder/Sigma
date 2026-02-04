@@ -1,0 +1,45 @@
+body {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  border-radius: 100px;
+  box-sizing: border-box;
+}
+
+.name {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  border-radius: 10pt;
+  background-color: purple;
+  margin-top: 1rem;
+  color: white;
+}
+
+.email {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  border-radius: 10pt;
+  background-color: purple;
+  margin-top: 1rem;
+  color: white;
+}
+
+.password {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  border-radius: 10pt;
+  background-color: purple;
+  margin-top: 1rem;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  margin-top: 1rem;
+  position: relative;
+  left: 9.8rem;
+}
